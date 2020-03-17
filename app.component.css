@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Anton', sans-serif;
+    background-color: silver;
+    margin: 0;
+    font-size: 3em;
+    padding-left: 5px;
+    text-shadow: rgb(97, 211, 52) -1px -2px 0.5em;
+    text-align: center;
+}
+
+footer {
+    background-color: #B9D3C2;
+    text-align: center;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  .fa-facebook {
+    background: #E98D58;
+    color: white;
+  }
+  .fa-instagram {
+    background: #F88181;
+    color: white;
+  }
+  .fa-twitter {
+    background: #A5B076;
+    color: white;
+  }
+  
+  .logo{
+    width: 45%;
+    padding-left: 5%;
+   
+  }
+
+  header{
+    background-color: #B9D3C2;
+
+  }
